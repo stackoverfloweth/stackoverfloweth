@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Sutherland</h1>
-<h3 align="center">I'm a senior frontend engineer with an especially firm stance on devex and clean code. I especially love Vue and Typescript, but am happy anytime I’m writing code.</h3>
+<h3 align="center">I'm a staff frontend engineer with an especially firm stance on devex and clean code. I especially love Vue and Typescript, but am happy anytime I’m writing code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stackoverfloweth&label=Profile%20views&color=0e75b6&style=flat" alt="stackoverfloweth" /> </p>
 
