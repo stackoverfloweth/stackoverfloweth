@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stackoverfloweth&label=Profile%20views&color=e6289e&style=flat" alt="stackoverfloweth" /> </p>
 
 - 👨🏻 Husband & Father  
-- 💚 Typescript & Vue Developer  
+- 💙 Typescript & Frontend Developer  
 - 🏓 Disc Golf & Table Tennis Junkie  
-- 💬 Ask me about **Typescript**, frontend frameworks, why I hate comments, how everyone does testing wrong
+- 💬 Ask me about **Typescript**, frontend frameworks, why I'm increasingly okay with comments incode, how everyone does testing wrong
 - 📫 How to reach me **stackoverfloweth** (gmail)  
 
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="evanmsutherland" height="30" width="40" style="color:#e6289e;" /></a>
